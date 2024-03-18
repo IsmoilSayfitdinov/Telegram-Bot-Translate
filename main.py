@@ -7,7 +7,7 @@ from translate import Translator
 import keyboard as kb
 
 
-BOT_TOKEN = ""
+BOT_TOKEN = "7161407802:AAHWlNHghE_OVFuIy7tIliBy89uF9MfAgPQ"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
